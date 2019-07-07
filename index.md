@@ -7,7 +7,7 @@ Irei buscar estar atualizando o Log de informações da page todo domingo, quem 
 
 ### Informativo do Projeto
 ```markdown
-**0.1.0** 
+* 0.1.0 
   - Database iniciada
 ```
 
