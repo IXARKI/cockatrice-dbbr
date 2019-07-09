@@ -8,7 +8,7 @@ Irei buscar estar atualizando o Log de informações todo Domingo, quem tiver in
 ### Informativo do Projeto
 ```markdown
 * 0.1.0 
-  - Database iniciada
+  - Database iniciada baseada no site oficial de Magic.
 ```
 
 
