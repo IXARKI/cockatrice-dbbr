@@ -1,16 +1,12 @@
-## Magic Database pt-br
-Este é um projeto que tem como iniciativa aprimorar meus estudos, sendo assim, será um meio de estudo sem compromisso.
-
-Peço que tenham paciência pois pode ser que a disponibilização de um banco de dados viável para uso venha a demorar. 
-
-Irei buscar estar atualizando o Log de informações todo Domingo, quem tiver interesse em me ajudar nos meus estudos fique a vontade para me enviar qualquer sugestão por email que quando possível responderei :)
-
-### Informativo do Projeto
+## Magic Database pt-br - Informativo do Projeto
 ```markdown
 * 0.1.0 
   - Database iniciada baseada no site oficial de Magic.
+* 0.1.1
+  - Database aprimorada com base no site Ligamagic
+  
+NOTA: A Database das cartas foi concluida na v0.1.1 e gira em torno de aprox. 7.500 cartas traduzidas e lançadas ao mercado em português-br na data de 03-07-2019, e as cartas traduzidas obtidas são de aprox. 85%.
 ```
-
 
 ### [Download](https://1drv.ms/u/s!AuAnK_NE3grqk41fODfYyV7C8CDyjg?e=BgXVVY)
 
